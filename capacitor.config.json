@@ -1,0 +1,12 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic6-capacitor4-testsplash",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins": {
+		"SplashScreen": {
+			"launchAutoHide": false,
+			 "androidScaleType": "CENTER_CROP"
+		}
+	}
+}
